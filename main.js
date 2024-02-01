@@ -1,7 +1,7 @@
 $(document).ready(function () {
     var events = [];
     var files = [
-        './fx.ics',
+        './iran-legal.ics',
         './iran-holidays.ics'
     ];
     $.each(files, function (index, file) {
